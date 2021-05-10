@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Kawashima_Kenji\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCP\\ShootingGameSystemCP.Build.cs",
+		"C:\\Users\\Kawashima_Kenji\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCP.Target.cs",
+		"C:\\Users\\Kawashima_Kenji\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCPEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

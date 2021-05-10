@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShootingGameSystemCP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{62E8F276-0F73-4A1F-8AFC-CD862E07E2E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootingGameSystemCP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShootingGameSystemCPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F15E77A5-4542-49D2-8FC9-221B4BADF471}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShootingGameSystemCP">
+      <UniqueIdentifier>{2EBDD3EE-EC92-4B54-9A82-6E0A1B9D9812}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootingGameSystemCP\ShootingGameSystemCP.Build.cs">
+      <Filter>Source\ShootingGameSystemCP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShootingGameSystemCP\ShootingGameSystemCP.cpp">
+      <Filter>Source\ShootingGameSystemCP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingGameSystemCP\ShootingGameSystemCP.h">
+      <Filter>Source\ShootingGameSystemCP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShootingGameSystemCP\ShootingGameSystemCPCharacter.cpp">
+      <Filter>Source\ShootingGameSystemCP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingGameSystemCP\ShootingGameSystemCPCharacter.h">
+      <Filter>Source\ShootingGameSystemCP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShootingGameSystemCP\ShootingGameSystemCPGameMode.cpp">
+      <Filter>Source\ShootingGameSystemCP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingGameSystemCP\ShootingGameSystemCPGameMode.h">
+      <Filter>Source\ShootingGameSystemCP</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootingGameSystemCP\Private">
+      <UniqueIdentifier>{A05047D3-B99C-4279-AF34-8549EF767B54}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootingGameSystemCP\Private\PlayerBullet.cpp">
+      <Filter>Source\ShootingGameSystemCP\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingGameSystemCP\Private\PlayerBullet.h">
+      <Filter>Source\ShootingGameSystemCP\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

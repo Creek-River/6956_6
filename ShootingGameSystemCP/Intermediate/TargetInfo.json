@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShootingGameSystemCP",
+			"Path": "C:\\Users\\Kawashima_Kenji\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShootingGameSystemCPEditor",
+			"Path": "C:\\Users\\Kawashima_Kenji\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

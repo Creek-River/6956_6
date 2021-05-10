@@ -1,0 +1,2 @@
+C:\Users\Kawashima_Kenji\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\Definitions.ShootingGameSystemCP.h
+C:\Users\Kawashima_Kenji\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Source\ShootingGameSystemCP\ShootingGameSystemCP.h

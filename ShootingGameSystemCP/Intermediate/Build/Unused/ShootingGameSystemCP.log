@@ -1,0 +1,6 @@
+﻿  Building ShootingGameSystemCPEditor...
+  Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 20 processes...
+    [1/4] PlayerBullet.cpp
+C:\Users\Kawashima_Kenji\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Source\ShootingGameSystemCP\Private\PlayerBullet.cpp(79): fatal error C1075: '{': 一致するトークンが見つかりませんでした
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073: コマンド ""C:\Program Files\Epic Games\UE_4.26\Engine\Build\BatchFiles\Build.bat" ShootingGameSystemCPEditor Win64 Development -Project="C:\Users\Kawashima_Kenji\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\ShootingGameSystemCP.uproject" -WaitMutex -FromMsBuild" はコード 6 で終了しました。
